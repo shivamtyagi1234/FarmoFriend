@@ -1,0 +1,7 @@
+package DTO;
+
+public class QuickDTO {
+	String state;
+	String month;
+
+}
